@@ -1,4 +1,4 @@
-bbotstrap2
+bootstrap2
 ==========
 
 the importance of bootstrap
